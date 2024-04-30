@@ -1,0 +1,8 @@
+/* #actions_list {
+  display: flex;
+} */
+
+.action_item {
+  display: flex;
+  gap: 12px;
+}
